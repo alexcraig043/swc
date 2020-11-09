@@ -1,0 +1,16 @@
+body 
+{
+    height: 100%;
+    margin: 0;
+    display: flex;
+}
+
+.input
+{
+    display: block;
+    text-align: center;
+    font-family: "Oswald";
+    font-size: 2vw;
+    border-radius: 12px;
+    border: 2px;
+}
